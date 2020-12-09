@@ -8,3 +8,4 @@ An app to track birthdays!
 - Note: This app is still under development and is only public due to it being graded for a university assignment.
 
 Copyright © 2020 Trenton-Smith
+All rights reserved
